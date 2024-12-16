@@ -1,5 +1,7 @@
-api.msn.com
-mainnet.infura.io
-beacons%.gvt%.com
-star-mini.c10r.facebook.com
-chat-e2ee-ig-p42.c10r.facebook.com
+# Diese Liste dient zum blocken von ungewünschten Websiten.
+
+||api.msn.com^
+||mainnet.infura.io^
+||beacons%.gvt%.com^
+||star-mini.c10r.facebook.com^
+||chat-e2ee-ig-p42.c10r.facebook.com^
